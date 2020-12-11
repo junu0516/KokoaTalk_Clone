@@ -1,4 +1,4 @@
-# 코코아톡(카카오톡 UI 따라해보기)
+# 코코아톡([노마드코더](https://nomadcoders.co/kokoa-clone)강의 / 카카오톡 UI 따라해보기)
 ### 2020.12.11 : 로그인 화면 구현
 1. 브라우저에 기본으로 설정된 스타일 해제를 위해 [reset.css](https://github.com/junu0516/KokoaTalk_Clone/blob/main/css/reset.css) 적용
 2. 구글 폰트에서 Open Sans [폰트](https://github.com/junu0516/KokoaTalk_Clone/blob/main/css/styles.css) 적용
