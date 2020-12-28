@@ -6,3 +6,4 @@
 <img src="https://user-images.githubusercontent.com/68586291/101794625-69962b80-3b4a-11eb-879f-20f2044b1f1f.jpg" width="300px" height="400px"/>
 ***
 
+재미없어서 잠시 중단합니다 ~~~
